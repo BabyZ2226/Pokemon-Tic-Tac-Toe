@@ -1,0 +1,5 @@
+{
+  "name": "Pokémon Tricki Grid",
+  "description": "A 3x3 Pokémon trivia grid game. Match Pokémon to row and column conditions to win!",
+  "requestFramePermissions": []
+}
