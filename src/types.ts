@@ -13,6 +13,10 @@ export interface Pokemon {
   isBaby: boolean;
   stats: { [key: string]: number };
   shape: string;
+  bst: number;
+  evolutionStage: string;
+  region: string;
+  rarity: string;
 }
 
 export interface Category {
